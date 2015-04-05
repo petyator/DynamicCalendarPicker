@@ -1,4 +1,4 @@
-package calendarpicker.petyator.hu.calendarpicker;
+package hu.petyator.calendarpicker.calendar;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

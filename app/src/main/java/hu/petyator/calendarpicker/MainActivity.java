@@ -1,9 +1,11 @@
-package calendarpicker.petyator.hu.calendarpicker;
+package hu.petyator.calendarpicker;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import hu.petyator.calendarpicker.calendar.R;
 
 
 public class MainActivity extends ActionBarActivity {
